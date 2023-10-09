@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if else kulanımı2-1473", "if else kulanımı2-1473\if else kulanımı2-1473.csproj", "{1338AE13-DB0A-4AEF-B97A-3569032BC79B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1338AE13-DB0A-4AEF-B97A-3569032BC79B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1338AE13-DB0A-4AEF-B97A-3569032BC79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1338AE13-DB0A-4AEF-B97A-3569032BC79B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1338AE13-DB0A-4AEF-B97A-3569032BC79B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A149B976-E7DE-496A-A88B-9E97CF321A66}
+	EndGlobalSection
+EndGlobal
